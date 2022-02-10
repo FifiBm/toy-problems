@@ -3,7 +3,12 @@
 //ex. countVowels('hey there you') would output 5
 
 const countVowels = (str) => {
-  
+  for (let char of Str) {
+      if (countVowels.includes(char)) {
+          countVowels (i = 0, i + 1)
+      }
+  }
+     return countVowels
 }
 
 console.log(countVowels('flowers'); // 2
